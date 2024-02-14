@@ -1,0 +1,6 @@
+discord.py
+db-sqlite3
+requests
+interactions
+discord-py-slash-command
+discord_components
