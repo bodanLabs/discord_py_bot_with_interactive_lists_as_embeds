@@ -45,10 +45,6 @@ Run the bot with the command:
 
 Contributions are welcome! Please create an issue or submit a pull request with your proposed changes.
 
-### License
-
-MIT License
-
 ### Acknowledgements
 
 Thanks to the Discord.py community for their extensive documentation and support.
